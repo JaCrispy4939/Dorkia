@@ -1,4 +1,6 @@
 # Dorkia
 A python code that makes google dorking easier
 
-**NOTE THIS ISNT FULLY COMPLETE, IM JUST STARTING IT**
+**UPDATE**
+
+Project is mostly done, i might add some new options / dorks, i havent decided yet
